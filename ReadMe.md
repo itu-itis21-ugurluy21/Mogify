@@ -57,5 +57,5 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 ---
 
-*Last updated: October 30, 2023*
+*Last updated: October 28, 2025*
 
