@@ -1,11 +1,11 @@
-# MogApp Privacy Policy
+# Mogify Privacy Policy
 
-**Effective Date:** **October 30, 2023**
+**Effective Date:** **October 29, 2025**
 
 ---
 
 ## 1. Introduction
-Welcome to **MogApp**! This Privacy Policy explains how we handle your information when you use our mobile application. Your privacy is critically important to us. Our goal is to provide a powerful fitness analysis tool while respecting your data and privacy at every step.
+Welcome to **Mogify**! This Privacy Policy explains how we handle your information when you use our mobile application. Your privacy is critically important to us. Our goal is to provide a powerful fitness analysis tool while respecting your data and privacy at every step.
 
 This policy explains **what information we collect**, **why we need it**, and **how we use it** to provide our services.
 
